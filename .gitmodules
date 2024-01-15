@@ -1,0 +1,6 @@
+[submodule "soundcloud-clone"]
+	path = soundcloud-clone
+	url = https://github.com/AOY311/soundcloud-clone.git
+[submodule "soundcloud-api-clone"]
+	path = soundcloud-api-clone
+	url = https://github.com/AOY311/soundcloud-api-clone.git
